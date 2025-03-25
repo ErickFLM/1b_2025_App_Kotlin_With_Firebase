@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564854403402",
+    "project_id": "app-on-laravel",
+    "storage_bucket": "app-on-laravel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564854403402:android:700e8d28921990856dd1b3",
+        "android_client_info": {
+          "package_name": "com.example.a1b_2025_app_on_laravel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcChOiYk3hk2awkEe8s7yK-jGp6i1IOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564854403402:android:eebddc463721a6d66dd1b3",
+        "android_client_info": {
+          "package_name": "com.example.a1b_2025_appaula_on_laravel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcChOiYk3hk2awkEe8s7yK-jGp6i1IOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
